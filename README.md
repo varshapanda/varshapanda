@@ -1,4 +1,4 @@
-## Hi, I'm Varsha Vijayashwini Panda
+# Hi, I'm Varsha Vijayashwini Panda
 
 ###  About Me:
 I'm an aspiring full-stack developer with a focus on building functional and well-structured web applications using the MERN stack. 
@@ -23,9 +23,9 @@ I'm an aspiring full-stack developer with a focus on building functional and wel
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=varshapanda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=varshapanda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshapanda&theme=dark&hide_border=false&layout=compact&hide=assembly)
+![](https://github-readme-stats.vercel.app/api?username=varshapanda&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=varshapanda&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshapanda&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=assembly)
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/varsha-vijayashwini-panda)
