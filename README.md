@@ -28,8 +28,12 @@ I'm an aspiring full-stack developer with a focus on building functional and wel
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=varshapanda&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=assembly)
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/varsha-vijayashwini-panda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:varshavpanda006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://linkedin.com/in/varsha-vijayashwini-panda)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/VarshaVijayashwiniPanda/)
+
+
+
 
 
 
