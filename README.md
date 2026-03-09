@@ -29,12 +29,7 @@ I enjoy building projects where engineering decisions directly impact user exper
 <a href="https://leetcode.com/VarshaVijayashwiniPanda/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VarshaVijayashwiniPanda" height="30" width="40" />
 </a>
+<a href="https://figma.com/@varshapanda" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40"/>
+</a>
 </p>
-
-
-
-
-
-
-
-
